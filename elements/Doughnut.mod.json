@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "pinclipart.com_donut-clipart_5229733",
+    "customModelName": "Normal",
+    "name": "Doughnut",
+    "rarity": "RARE",
+    "specialInfo": [
+      "The power of loving Doughnuts will heal you!"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "DoughnutFoodEaten"
+    }
+  }
+}

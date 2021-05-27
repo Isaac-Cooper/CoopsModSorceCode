@@ -1,0 +1,42 @@
+{
+  "group": "coops",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pink_dye"
+    },
+    "1": {
+      "item": "minecraft:pink_dye"
+    },
+    "2": {
+      "item": "minecraft:pink_dye"
+    },
+    "3": {
+      "item": "minecraft:wheat"
+    },
+    "4": {
+      "item": "minecraft:sugar"
+    },
+    "5": {
+      "item": "minecraft:wheat"
+    },
+    "6": {
+      "item": "minecraft:honey_bottle"
+    },
+    "7": {
+      "item": "minecraft:milk_bucket"
+    },
+    "8": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "coops:doughnut",
+    "count": 3
+  }
+}

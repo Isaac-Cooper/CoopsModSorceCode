@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Mmm... Doughnuts!",
+    "achievementDescription": "You have eaten a Doughnut!",
+    "achievementIcon": {
+      "value": "CUSTOM:Doughnut"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 10,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:CoodsA"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"38\" y=\"45\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "coops:items/pinclipart.com_donut-clipart_5229733"
+  }
+}
